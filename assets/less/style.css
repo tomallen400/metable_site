@@ -10372,6 +10372,7 @@ footer {
 .figurette {
   margin-top: 65px;
 }
+.
 .lazy-container {
   text-align: center;
   min-height: 400px;
@@ -11520,6 +11521,7 @@ input[type=submit] {
 .clients-images img {
 	max-height: 200px;
 	vertical-align: middle;
+	margin-top: 30px;
 }
 
 
@@ -11626,7 +11628,10 @@ input[type=submit] {
 	padding-bottom: 50px !important;
 }
 
-
+/* Margins */
+.margin-top-100 {
+	margin-top: 100px !important;
+}
 
 /* Other pages */
 #pages .pricing-table .plan {
@@ -11635,7 +11640,7 @@ input[type=submit] {
 
 #pages .plan {
 	padding: 20px 10px;
-	
+	margin-top: 50px;
 }
 
 #pages .plan:hover {
