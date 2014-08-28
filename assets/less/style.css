@@ -11672,3 +11672,12 @@ input[type=submit] {
 	font-size: 17px !important;
 	padding: 8px 10px;
 }
+
+/* Sign Up Bar */
+#sign-up-bar {
+	padding: 1px 0px;
+}
+
+#sign-up-bar .page-headline {
+	padding-top: 0px !important;
+}
